@@ -4,7 +4,7 @@ const users= {};
 const cors= require('cors')
 const express= require('express')
 const app= express();
-const port= 80;
+const port= process.env.port;
 const path= require('path');
 app.use(cors());
 // For Serving the Static files we have
@@ -35,6 +35,6 @@ io.on('connection', socket=>{
 
 // To Listen the Application and Serve it to the client
 
-app.listen(port, ()=>{
-    console.log("Application is sucessfully listening to the Port 80 and Serving to the client window.");
-})
+app.listen(port||80, ()=>{
+    console.log("Application is sucessfully listening to the Port 80 or the given random Port and Serving to the client window.");
+});
