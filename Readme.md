@@ -13,7 +13,7 @@
 ```
 git clone https://github.com/mananaggarwal2001/ChatBot-Application.git
 ```
-2. Then Install the required Packges By Using the command
+2. Then Install the required Dependencies using the command
 
 ```
 npm install
