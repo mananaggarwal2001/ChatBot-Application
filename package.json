@@ -1,0 +1,16 @@
+{
+  "name": "project_5_chat_bot_application",
+  "version": "1.0.0",
+  "description": "This is the first chat bot Application Using the Socket.io node module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manan Aggarwal",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1"
+  }
+}
