@@ -42,3 +42,10 @@ For Example:- **Let's Use the Name Naman For the another tab.**
 ![image](https://user-images.githubusercontent.com/75381077/180608785-46e0dc8b-3c7d-48db-aee7-2587c9681923.png)
 
 4. When this above message is displayed then you are good to go For chatting and enjoy the app.
+
+## Preview Of the App
+### **From Manan Side**
+![image](https://user-images.githubusercontent.com/75381077/180609194-b3c2a7ce-995c-4b06-b1e9-bc81203052b2.png)
+### **From Naman Side**
+![image](https://user-images.githubusercontent.com/75381077/180609237-3f1a4347-50e3-4877-b143-6fec475ccbb1.png)
+#### **Note:- You can use any Name you want in the given Prompt and Start the Chatting and connect as much users as this is the Scalable Web application etc.**
