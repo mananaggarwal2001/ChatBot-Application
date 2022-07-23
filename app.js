@@ -12,7 +12,7 @@ app.use(cors());
 app.use(express.static(`${__dirname}/public`)) // For Sendingl the Static File
 
 app.get('/', (req,res)=>{
-    res.sendFile(path.join(__dirname, 'index.html'));
+    res.sendFile(path.join(__dirname, 'index2.html'));
 })
 io.on('connection', socket=>{
     // This is the first event that tell the clients which are connected to the server that the new User has joined.
