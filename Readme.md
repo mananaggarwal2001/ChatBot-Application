@@ -26,4 +26,11 @@ node app.js
 ```
 
 ## **How To Use the Application**
-### **These Steps are given Sequentially So Please Follow all the Steps Respectively.**
+### **These Steps are given Sequentially So Please Follow all the Steps respectively.**
+1. Start the Application As Given Above using the respective Command.
+2. Then Open the Link in the another Tab of the given Browser Application with the same-Link and Enter the different Name in the given Prompt
+3. Start the chatting and Enjoy the Application !!!!
+
+
+
+
