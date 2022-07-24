@@ -74,6 +74,5 @@ For Example:- **Let's Use the Name Naman For the another tab.**
 6. Click on the Reload and You have resolve this issue and enjoy the chat.
 
 - **Important Note:- Reload the webpage using this extesion for the every localhost website you open otherwise your application will not work.**
-
 ## **Here is the Preview Of the Application**
 ### [CHATBOT APPLICATION](http://mananaggarwal.me/ChatBot-Application/)
