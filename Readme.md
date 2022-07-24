@@ -13,13 +13,17 @@
 ```
 git clone https://github.com/mananaggarwal2001/ChatBot-Application.git
 ```
-2. Then Install the required Dependencies using the command
+2. Then change the Directory using the command 
+```
+cd Chat (Press Tab For Autocompletion)
+```
+3. Then Install the required Dependencies using the command
 
 ```
 npm install
 ```
 
-3. Then Start the application by using the command
+4. Then Start the application by using the command
 
 ```
 node app.js
