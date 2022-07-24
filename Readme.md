@@ -74,6 +74,7 @@ For Example:- **Let's Use the Name Naman For the another tab.**
 5. Then click on the icon again and a alert will given asking you to reload this website.
 
 ![image](https://user-images.githubusercontent.com/75381077/180659731-a094c29a-2775-4b4c-b95d-d43db823e18e.png)
+
 6. Click on the Reload and You have resolve this issue and enjoy the chat.
 
 - **Important Note:- Reload the webpage using this extesion for the every localhost website you open otherwise your application will not work.**
